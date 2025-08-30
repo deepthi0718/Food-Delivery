@@ -1,5 +1,5 @@
 {
-  "homepage": "https://deepthi0718.github.io/FoodDeliveryWebsite",
+  "homepage": "https://deepthi0718.github.io/Food-Delivery/",
   "name": "grocify-website",
   "private": true,
   "version": "0.0.0",
@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d build",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"

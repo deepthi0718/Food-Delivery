@@ -52,15 +52,7 @@ function Navbar() {
         <FiShoppingBag className="w-[30px] h-[30px] text-green-600" />
       </div>
 
-      {/* Auth Section */}
-      <header className="flex items-center gap-4 bg-white shadow-xl p-5 rounded-xl text-green-700">
-        <SignedOut>
-          <SignInButton mode="modal" />
-        </SignedOut>
-        <SignedIn>
-          <UserButton afterSignOutUrl="/" />
-        </SignedIn>
-      </header>
+      
     </div>
   );
 }
