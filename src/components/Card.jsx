@@ -1,5 +1,4 @@
-import React from 'react'
-import image1 from "../assets/image1.avif"
+
 import { LuLeafyGreen } from "react-icons/lu";
 import { GiChickenOven } from "react-icons/gi";
 import { useDispatch } from 'react-redux';

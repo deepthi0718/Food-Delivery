@@ -12,7 +12,7 @@ export const categories = [
     { id: 2, name: "breakfast", icon: <MdOutlineFreeBreakfast className="w-[50px] h-[50px] text-green-600" /> },
     { id: 3, name: "soups", icon: <LuSoup className="w-[50px] h-[50px] text-green-600" /> },
     { id: 4, name: "pasta", icon: <CiBowlNoodles className="w-[50px] h-[50px] text-green-600" /> },
-    { id: 5, name: "main_course", icon: <MdOutlineFoodBank className="w-[50px] h-[50px] text-green-600" /> },
+    { id: 5, name: "main-course", icon: <MdOutlineFoodBank className="w-[50px] h-[50px] text-green-600" /> },
     { id: 6, name: "pizza", icon: <GiFullPizza className="w-[50px] h-[50px] text-green-600" /> },
     { id: 7, name: "burger", icon: <FaHamburger className="w-[50px] h-[50px] text-green-600" /> }
 ];
