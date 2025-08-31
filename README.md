@@ -52,30 +52,5 @@ npm install
 # Start the development server
 npm start
 
-About
-
-A Food Delivery Website project that demonstrates a simple yet effective online ordering system. The application highlights front-end development skills with React.js, state management with Redux, and a modern UI built using Tailwind CSS.
-
-Resources
-
-README
-
-Activity
-
-Repository Stats
-
-Stars: 0 stars
-Watchers: 1 watching
-Forks: 0 forks
-
-Releases
-
-No releases published
-
-Packages
-
-No packages published
-
 Languages
-
 React.js / JavaScript / HTML — 100%
