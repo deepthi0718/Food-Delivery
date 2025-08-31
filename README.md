@@ -39,7 +39,7 @@ npm or yarn package manager
 
 Code editor (VS Code recommended)
 
-Setup
+##Setup
 # Clone the repository
 git clone https://github.com/deepthi0718/Food-Delivery.git
 
